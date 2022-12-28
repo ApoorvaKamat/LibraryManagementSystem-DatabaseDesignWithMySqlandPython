@@ -27,6 +27,6 @@ Please Install the below dependencies
  
  4. Run the command `python3 main.py`
  
- 5. Read the [Quick Start User Guide for more information](QuickStartUserGuide.pdf)
+ 5. Read the [Quick Start User Guide](QuickStartUserGuide.pdf) for more information
 
  
